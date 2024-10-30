@@ -1,0 +1,18 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "contact",
+  "version": "1.0",
+  "license": "MIT",
+  "category": "utilities",
+  "description": {
+    "name": "Domain Registrant Contact",
+    "tagline": "Provides a contact form to reach the registrant of a specified domain."
+  },
+  "authors": [
+    {
+      "name": "Namingo",
+      "homepage": "https:\/\/namingo.org\/"
+    }
+  ]
+}
